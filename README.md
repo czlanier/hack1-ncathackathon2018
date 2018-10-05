@@ -1,2 +1,5 @@
-# hack1-ncathackathon2018
-NCAT Hackathon 2018.  Cummings Hack Problem 1
+# Start
+
+==========
+
+Our Project contains a gui that connects to API which checks the integrity of code.
